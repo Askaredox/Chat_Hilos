@@ -1,0 +1,7 @@
+Andy:  hola como estas
+IPC:  bien gracias
+nombre:  hola
+nombre:  como te va
+IPC:  muy bien gracias
+Usuario:  Taller de java
+Usuario22:  quiero puntos extras para IPC1
